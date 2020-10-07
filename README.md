@@ -22,9 +22,9 @@ I knew I liked computing from a fairly young age, but to this date I have not be
 
 In my free time, I catch up on some extra studies in theoretical computing or get started on some project in my long to-do list. I also enjoy problem solving and I am particularly intrigued by puzzles (even though I'm not very good at them!).
 
-### My Communities
+### My Communities <img src="https://pbs.twimg.com/profile_images/1093585928642162688/oVdX1KD-.jpg" alt="WTM" width="25" height="25"/> 
 
-Apart from being a second year student in the CS Department, I am also a **Women Techmakers Engineering Fellow** under *Google* and *TalentSprint*. This is an experiential program along with 125 other girls my age from all over India. I owe a lot to this supportive, encouraging and self-improving community (including my peers, mentors and instructors).
+Apart from being an undergrad in CS, I am also a **Women Techmakers Engineering Fellow** under *Google* and *TalentSprint*. This is an experiential program along with 125 other girls my age from all over India. I owe a lot to this supportive, encouraging and self-improving community (including my peers, mentors and instructors).
 
 ### Hobbies
 
