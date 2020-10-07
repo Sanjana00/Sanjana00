@@ -20,7 +20,7 @@ I mainly code in `Python` these days.
 
 I knew I liked computing from a fairly young age, but to this date I have not been able to pinpoint a particular domain to call it my interest. I've always been a bit of a *"Jack of All Trades"* character. Recently, I've realised I'm comfortable with calling myself an ***Explorer***. 
 
-In my free time, I catch up on some extra studies in theoretical computing or get started on some project in my long to-do list. I also enjoy problem solving and I am particularly intrigued by puzzles (but that does not mean I'm very good at them!).
+In my free time, I catch up on some extra studies in theoretical computing or get started on some project in my long to-do list. I also enjoy problem solving and I am particularly intrigued by puzzles (even though I'm not very good at them!).
 
 ### My Communities
 
