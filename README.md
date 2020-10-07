@@ -1,6 +1,6 @@
 <img align="right" src="./img/codenashi.png" height="250px"/>
 
-*`If your dreams don't scare you, dream bigger`*
+>*If your dreams don't scare you, dream bigger*
 
 # Hello, World!
 
