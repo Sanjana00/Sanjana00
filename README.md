@@ -1,6 +1,6 @@
 <img align="right" src="./img/codenashi.png" height="250px"/>
 
->*If your dreams don't scare you, dream bigger*
+>*There’s no match that you can’t win, and there’s no match that you’ll win for sure*
 
 # Hello, World!
 
