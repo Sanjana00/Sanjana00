@@ -36,7 +36,8 @@ Apart from being an undergrad in CS, I am also a **Women Techmakers Engineering 
 
 ### Find Me
 
-[![Linkedin Badge](https://img.shields.io/badge/--blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjana-chakravarty/)](https://www.linkedin.com/in/sanjana-chakravarty/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/--c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:sanjana.chakravarty@gmail.com)](mailto:sanjana.chakravarty@gmail.com)
+[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sanjana-chakravarty/)
+[<img alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg">](mailto:sanjana.chakravarty@gmail.com)
 
 Looking forward to what I achieve next! 
 
