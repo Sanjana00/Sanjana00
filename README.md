@@ -10,11 +10,13 @@
 
 Or maybe you know me as Sancho. Some special people know me as Chotik. 
 
-I am currently a second year student of **Computer Science** at IIESTS. I am 20 years old and I started my coding journey 5 years ago, in `Java`. 
+I am currently a second year student of **Computer Science** at IIESTS. I am 20 years old and I started my coding journey 6 years ago, in `Java`. 
 
-One year ago, I picked up `Python` by myself. I need to code in `C` for the college coding labs and I am currently trying out `C++`. I've had some fun with `Haskell`, `Go` and `MATLAB`. 
+Two years ago, I picked up `Python` by myself. I need to code in `C` for the college coding labs and I am currently trying out `C++`. I've had some fun with `Haskell`, `Go` and `MATLAB`. 
 
 I mainly code in `Python` these days.
+
+My <a href ="https://portfolios.talentsprint.com/~sanjana_c/" target="_blank">portfolio</a>.
 
 ### My Interests
 
@@ -28,7 +30,7 @@ Apart from being an undergrad in CS, I am also a **Women Techmakers Engineering 
 
 ### Hobbies
 
-- I have been teaching myself **Japanese** for over a year now
+- I have been teaching myself **Japanese** for over two years now
 - Football player, CB, Jersey no. 4
 - Passionate book ~~reader~~ collector (I also collect bookmarks from different countries~!)
 
