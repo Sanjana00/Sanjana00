@@ -10,7 +10,7 @@
 
 Or maybe you know me as Sancho. Some special people know me as Chotik. 
 
-I am currently a second year student of **Computer Science** at IIESTS. I am 20 years old and I started my coding journey 6 years ago, in `Java`. 
+I am currently a second year student of **Computer Science** at IIESTS. I am 21 years old and I started my coding journey 6 years ago, in `Java`. 
 
 Two years ago, I picked up `Python` by myself. I need to code in `C` for the college coding labs and I am currently trying out `C++`. I've had some fun with `Haskell`, `Go` and `MATLAB`. 
 
