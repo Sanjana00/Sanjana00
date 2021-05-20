@@ -27,7 +27,7 @@ In my free time, I catch up on some extra studies in theoretical computing or ge
 ### Hobbies
 
 - I have been teaching myself **Japanese** for over two years now
-- Football player, CB, Jersey no. 4
+- Football player, Jersey no. 4 (5 years on the field)
 - Passionate book ~~reader~~ collector (I also collect bookmarks from different countries~!)
 
 #### Fun Fact: I drew my profile icon (PyParty) as well as this illustration depicting my permanent state (Codenashi)
